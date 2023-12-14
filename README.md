@@ -1,11 +1,8 @@
-# Revenue Insights - Hospitality Domain
-
-[Link to Interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWJhZWJiZGQtZmRiMC00NGJhLWI1ODEtZmE1ZjFmMjUyMDY1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
-
+# Hospitality Domain - Revenue Insights
 
 Greetings, everyone!
 
-I developed a powerful and interactive dashboard that provided valuable insights into the revenue generation and performance metrics of AtliQ Grands.
+I developed a powerful and interactive dashboard that provided valuable insights into the revenue generation and performance metrics of AtliQ Grands. [Link to Interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWJhZWJiZGQtZmRiMC00NGJhLWI1ODEtZmE1ZjFmMjUyMDY1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 **Problem statement**: AtliQ Grands, a prominent five-star hotel chain in India, has been in the hospitality industry for two decades. However, due to increased competition and ineffective management decisions, they're experiencing a decline in market share and revenue within the luxury/business hotels segment.
 
@@ -29,3 +26,5 @@ I developed a powerful and interactive dashboard that provided valuable insights
 
 
 Dashboard Home Page:
+![Screenshot (19)](https://github.com/Sanjeev0531/Revenue-Insights---Hospitality-Domain/assets/143807286/e2301da4-4b19-4408-a64d-8e06e7a14d2e)
+
